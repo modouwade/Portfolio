@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/React_Portfolio_Website/static/css/main.99f2385a.chunk.css",
+    "main.js": "/React_Portfolio_Website/static/js/main.0a81c48c.chunk.js",
+    "main.js.map": "/React_Portfolio_Website/static/js/main.0a81c48c.chunk.js.map",
+    "runtime-main.js": "/React_Portfolio_Website/static/js/runtime-main.51ca2e2f.js",
+    "runtime-main.js.map": "/React_Portfolio_Website/static/js/runtime-main.51ca2e2f.js.map",
+    "static/js/2.9cad5702.chunk.js": "/React_Portfolio_Website/static/js/2.9cad5702.chunk.js",
+    "static/js/2.9cad5702.chunk.js.map": "/React_Portfolio_Website/static/js/2.9cad5702.chunk.js.map",
+    "index.html": "/React_Portfolio_Website/index.html",
+    "static/css/main.99f2385a.chunk.css.map": "/React_Portfolio_Website/static/css/main.99f2385a.chunk.css.map",
+    "static/js/2.9cad5702.chunk.js.LICENSE.txt": "/React_Portfolio_Website/static/js/2.9cad5702.chunk.js.LICENSE.txt",
+    "static/media/address.a01cb8cc.png": "/React_Portfolio_Website/static/media/address.a01cb8cc.png",
+    "static/media/award.a796a64f.png": "/React_Portfolio_Website/static/media/award.a796a64f.png",
+    "static/media/email.a49e0158.png": "/React_Portfolio_Website/static/media/email.a49e0158.png",
+    "static/media/me.cc206f79.png": "/React_Portfolio_Website/static/media/me.cc206f79.png",
+    "static/media/moon.3bea3d39.png": "/React_Portfolio_Website/static/media/moon.3bea3d39.png",
+    "static/media/page1.1f7fda44.png": "/React_Portfolio_Website/static/media/page1.1f7fda44.png",
+    "static/media/page2.02f13504.png": "/React_Portfolio_Website/static/media/page2.02f13504.png",
+    "static/media/page3.9f8f4875.png": "/React_Portfolio_Website/static/media/page3.9f8f4875.png",
+    "static/media/page4.17028634.png": "/React_Portfolio_Website/static/media/page4.17028634.png",
+    "static/media/page5.a4e44cc8.png": "/React_Portfolio_Website/static/media/page5.a4e44cc8.png",
+    "static/media/page6.e3a7f182.png": "/React_Portfolio_Website/static/media/page6.e3a7f182.png",
+    "static/media/phone.d90a6d23.png": "/React_Portfolio_Website/static/media/phone.d90a6d23.png",
+    "static/media/sun.f794832a.png": "/React_Portfolio_Website/static/media/sun.f794832a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51ca2e2f.js",
+    "static/js/2.9cad5702.chunk.js",
+    "static/css/main.99f2385a.chunk.css",
+    "static/js/main.0a81c48c.chunk.js"
+  ]
+}
