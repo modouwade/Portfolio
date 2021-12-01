@@ -33,6 +33,6 @@ export const products = [
   {
     id: 6,
     img: page6,
-    link: "",
+    link: "http://modouwade.yoga.github.io/",
   },
 ];
