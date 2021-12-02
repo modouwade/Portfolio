@@ -8,12 +8,12 @@ export const products = [
   {
     id: 1,
     img: page1,
-    link: "",
+    link: "https://modouwade.github.io/Portfolio/",
   },
   {
     id: 2,
     img: page2,
-    link: "",
+    link: "http://modouwade.mode-nuit-javascript.github.io/",
   },
   {
     id: 3,
