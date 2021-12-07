@@ -14,24 +14,21 @@ const About = () => {
         </div>
       </div>
       <div className="a-right">
-        <h1 className="a-title">About Me</h1>
-        <p className="a-sub">
-          It is a long established fact that a reader will be distracted by the
-          readable content.
-        </p>
+        <h1 className="a-title">A propos de moi</h1>
+        <p className="a-sub">Mamadou mbaye wade, Developpeur web et mobile</p>
         <p className="a-desc">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat duis aute irure dolor in reprehende.
+          Sérieux, consciencieux et dynamique, j'ai la volonté de relever de
+          nombreux défis. Je suis capable de m'adapter à toutes les situations,
+          qu'il s'agisse de travailler en équipe ou en autonomie par exemple.
         </p>
         <div className="a-award">
           <img src={Award} alt="" className="a-award-img" />
           <div className="a-award-texts">
             <h4 className="a-award-title">International Design Awards 2021</h4>
             <p className="a-award-desc">
-              Nemo enim ipsam voluptatem quia voluptas sit aspernatur autodit
-              and fugit.
+              Je suis prés à mettre à profit les compétences que j'ai pu
+              acquérir dans le cadre de ma formation, des stages et des postes
+              que j’ai occupés.
             </p>
           </div>
         </div>
