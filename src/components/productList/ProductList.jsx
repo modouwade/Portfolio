@@ -5,11 +5,9 @@ const ProductList = () => {
   return (
     <div className="pl">
       <div className="pl-texts">
-        <h1 className="pl-title">Create & inspire. It's Wade</h1>
+        <h1 className="pl-title">Création et inspiration</h1>
         <p className="pl-desc">
-          Wade is a creative portfolio that your work has been waiting for.
-          Beautiful homes, stunning portfolio styles & a whole lot more awaits
-          inside.
+          Création de site web et application mobile pour nos idées de projets.
         </p>
       </div>
       <div className="pl-list">
