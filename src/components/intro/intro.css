@@ -39,7 +39,7 @@
 
 .i-title-wrapper {
     height: 100%;
-    animation: move 10s ease-in infinite alternate;
+    animation: move 10s ease infinite alternate;
 }
 
 @keyframes move {
