@@ -32,19 +32,20 @@
 } 
 
 .i-title {
-    height: 80px;
+    height: 50px;
+    padding: 20px;
     overflow: hidden;
 }
 
 .i-title-wrapper {
     height: 100%;
-    animation: move 10s ease-in-out infinite alternate;
+    animation: move 10s ease-in infinite alternate;
 }
 
 @keyframes move {
    
-    50% {
-      transform: translateY(-50px);
+    20% {
+      transform: translateY(-20px);
     }
     100% {
       transform: translateY(-100px);

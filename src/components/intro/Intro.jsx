@@ -7,13 +7,10 @@ const Intro = () => {
         <div className="i-left-wrapper">
           <h2 className="i-intro">Bonjour, Mon nom est</h2>
           <h2 className="i-name">Mamadou Mbaye Wade</h2>
-          <div className="i-title">
+          <div className="i-title"> 
             <div className="i-title-wrapper">
               <div className="i-title-item">Developpeur Web</div>
               <div className="i-title-item">Developpeur Mobile</div>
-              <div className="i-title-item">UI/UX Design</div>
-              <div className="i-title-item">Writer</div>
-              <div className="i-title-item">Content Creator</div>
             </div>
           </div>
           <p className="i-desc">
